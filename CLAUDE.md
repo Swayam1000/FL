@@ -6,13 +6,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This repository contains three main projects:
 
-1. **petrolpump_manager** - A federated learning dashboard using Flower framework with FastAPI backend and web frontend
+1. **Federated Learning** - A federated learning dashboard using Flower framework with FastAPI backend and web frontend
 2. **ethereum_project/ethereum-dapp** - An Ethereum DApp with Hardhat development environment and React frontend
 3. **modern-website** - A React + TypeScript website built with Vite
 
 ## Common Development Commands
 
-### Federated Learning Dashboard (petrolpump_manager/)
+### Federated Learning Dashboard (Federated Learning/)
 ```bash
 # Start the complete application (recommended)
 ./run.sh
